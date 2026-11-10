@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.jepeux",
+      "sha256_cert_fingerprints": [
+        "70:AB:51:E6:B2:2B:FA:35:48:81:F4:91:04:63:86:06:7D:83:09:A7:2D:DA:7E:7F:80:BD:59:8B:90:FC:A5:D8"
+      ]
+    }
+  }
+]
